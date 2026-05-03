@@ -1,0 +1,10 @@
+PROJETO: Tecnologia na Limpeza Urbana
+
+Autor: Revellys dos Santos Silva
+
+Resumo:
+Sistema inteligente para monitoramento de resíduos urbanos com foco em cidades inteligentes.
+Desenvolvido em Java com arquitetura MVC e conceitos de orientação a objetos.
+
+Resultados:
+Projeto funcional, organizado e escalável.
