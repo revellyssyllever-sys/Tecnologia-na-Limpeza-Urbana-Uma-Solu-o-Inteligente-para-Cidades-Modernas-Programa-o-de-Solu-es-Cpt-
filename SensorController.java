@@ -1,10 +1,7 @@
 package controller;
 
-import model.SensorLixeira;
-
 public class SensorController {
-    public String processarSensor(SensorLixeira sensor) {
-        return "Local: " + sensor.getLocalizacao() +
-               " | Status: " + sensor.verificarStatus();
+    public void atualizarSensores() {
+        System.out.println("Atualizando sensores...");
     }
 }
