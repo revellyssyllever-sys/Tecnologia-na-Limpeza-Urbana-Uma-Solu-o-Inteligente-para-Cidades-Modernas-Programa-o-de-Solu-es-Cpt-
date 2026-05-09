@@ -1,1 +1,9 @@
-# Tecnologia-na-Limpeza-Urbana-Uma-Solu-o-Inteligente-para-Cidades-Modernas-Programa-o-de-Solu-es-Cpt-
+# Tecnologia Limpeza Urbana Oracle Professional
+
+Projeto Java estruturado em modelo corporativo:
+- Java Oracle
+- MVC
+- Banco Oracle SQL
+- Dashboard desktop
+- Serviços de relatório
+- Estrutura pronta para expansão
